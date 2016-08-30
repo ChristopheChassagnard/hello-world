@@ -1,2 +1,2 @@
 # hello-world
-Rpository from the github basic tutorial
+this is a repository created when going through the github basic tutorial
